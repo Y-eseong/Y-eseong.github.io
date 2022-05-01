@@ -1,4 +1,4 @@
-{{page.title}}
+Title : "github.io 블로그 첫 글"
 ================================
 Excerpt : "github.io 블로그 첫 글 작성해봅니다."
 -------------------------------------------------
@@ -6,5 +6,5 @@ Excerpt : "github.io 블로그 첫 글 작성해봅니다."
 - Blog
 # tags :
 - Blog
-# {{page.last_modified_at}}
+# last_modified_at: {{page.last_modified_at}}
 
