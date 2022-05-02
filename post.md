@@ -2,9 +2,9 @@ Title : "github.io 블로그 첫 글"
 ================================
 Excerpt : "github.io 블로그 첫 글 작성해봅니다."
 -------------------------------------------------
-# categories :
+#### categories :
 - Blog
-# tags :
+#### tags :
 - Blog
-# last_modified_at: {{page.last_modified_at | date: '%Y:%B:%A:%d:%S:%R'}}
+#### last_modified_at: {{page.last_modified_at | date: '%Y:%B:%A:%d:%S:%R'}}
 
