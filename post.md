@@ -1,4 +1,4 @@
-Title : "github.io 블로그 첫 글"
+<title>Title : "github.io 블로그 첫 글"</title>
 ================================
 
 Excerpt : "github.io 블로그 첫 글 작성해봅니다."
